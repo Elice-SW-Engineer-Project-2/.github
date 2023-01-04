@@ -2,32 +2,50 @@
 
 > Elice 2차 웹 서비스 프로젝트
 
-<h2>📅 2차 프로젝트 일정</h2>
+## 📅 2차 프로젝트 일정
 
 -   프로젝트 개발 : 12/12(월) ~ 12/30(금)
 -   최종 발표 : 12/30(금) 오후 1시
 
 <img width="449" alt="1주차 스터디 일정" src="https://user-images.githubusercontent.com/54767632/210540284-ad50a031-20c9-431e-a70b-346b9577ba25.png">
 
-# Photolog Server
+<br>
 
-Photolog Server Readme 페이지 입니다.
-[프로젝트 노션](https://www.notion.so/Photo-log-4d4e74884d1540d4ae0dd9583830c275)
+## 🖥&nbsp;&nbsp;참여자
 
-## Photolog 서비스소개
+| 레이서(이름)              | 담당 업무 |
+| ----------------------- | --------- |
+| :rocket: 익수              | BE (팀장)|
+| :turtle: 재훈              | BE      |
+| :dolphin: 동한             | FE      |
+| :sunglasses: 상현          | FE      |
+| :crystal_ball: 충우        | FE      |
+| :hatched_chick: 채현       | FE      |                                               
+
+
+<!-- <br>
+
+## 📷&nbsp;&nbsp;Photolog Server -->
+
+<br>
+
+## <a href="https://www.notion.so/Photo-log-4d4e74884d1540d4ae0dd9583830c275" target="_blank">📒 Notion</a>
+
+<br>
+
+## 🪧&nbsp;&nbsp;소개
 
 ![스크린샷 2022-12-30 오전 1 34 28](https://user-images.githubusercontent.com/59651691/209982466-94f975b7-2c34-47ad-aac6-c185535a49e8.png)
 
+<br>
 
-## 프로젝트 기간
-
-- 22.12/12~ 22.12/29 (3주)   
-
+## ⚙️&nbsp;&nbsp;아키텍처
 
 ![stack](https://user-images.githubusercontent.com/59651691/209982205-54b5b26c-bf26-4ec9-a753-2fcd6fcace25.png)
 
+<br>
 
-## 데모영상
+## 🔍&nbsp;&nbsp;데모영상
 <details>
 <summary>로그인 디자인</summary>
 <img style="max-width: 100%; height: auto;" src="https://user-images.githubusercontent.com/54767632/209975619-8b6fa303-4e39-4131-9b03-c096e46ad3c1.gif" >
@@ -92,21 +110,6 @@ Photolog Server Readme 페이지 입니다.
 - JIRA : Issue Tracking
 - Figma : 디자인 시안 공유
 - Swagger : API 문서 공유
-
-
-## 👪 Contributors
-
-<br />
-
-| 별칭(이름)              | 담당 업무 |
-| ----------------------- | --------- |
-| :rocket: 익수              | BE (팀장)|
-| :turtle: 재훈              | BE      |
-| :dolphin: 동한             | FE      |
-| :sunglasses: 상현          | FE      |
-| :crystal_ball: 충우        | FE      |
-| :hatched_chick: 채현       | FE      |
-
 
 ## Getting Stated
 
@@ -177,13 +180,4 @@ AUTH_GMAIL_PASSWORD = {YOUR_GMAIL_ACCESS_TOKEN}
 ```
 
 
-<h2>🖥 참여자</h2>
 
-| 레이서(이름)              | 담당 업무 |
-| ----------------------- | --------- |
-| :rocket: 익수              | BE (팀장)|
-| :turtle: 재훈              | BE      |
-| :dolphin: 동한             | FE      |
-| :sunglasses: 상현          | FE      |
-| :crystal_ball: 충우        | FE      |
-| :hatched_chick: 채현       | FE      |                                               |      [:link:]()       |
