@@ -122,6 +122,14 @@
 <br>
 
 
+## 배포전략
+
+- t2 micro(프리티어, 메모리 부족현상 swap설정으로 완화)
+- elastic 고정ip(1개 사용시 프리티어, 단 연결된 인스턴스 중지중이면 안됨)
+- rds(mysql 프리티어)
+
+http://ec2-54-180-51-116.ap-northeast-2.compute.amazonaws.com
+
 
 
 
