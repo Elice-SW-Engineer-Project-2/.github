@@ -24,9 +24,12 @@
 
 <br>
 
+## <a href="http://ec2-54-180-51-116.ap-northeast-2.compute.amazonaws.com" target="_blank">📷 Photolog 사이트 둘러보기</a>
+
+<br>
+
 ## <a href="https://www.notion.so/Photo-log-4d4e74884d1540d4ae0dd9583830c275" target="_blank">📒 Notion</a>
 ## <a href="https://www.figma.com/file/hQnZSMnU3pxsdqGzWhg5Pw/team_7?node-id=62%3A494&t=ki7uxgEOkcSXfjJ9-1" target="_blank">📒 Figma</a>
-
 
 <br>
 
@@ -128,7 +131,6 @@
 - elastic 고정ip(1개 사용시 프리티어, 단 연결된 인스턴스 중지중이면 안됨)
 - rds(mysql 프리티어)
 
-http://ec2-54-180-51-116.ap-northeast-2.compute.amazonaws.com
 
 
 
