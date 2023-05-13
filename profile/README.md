@@ -24,7 +24,7 @@
 
 <br>
 
-## <a href="http://ec2-54-180-51-116.ap-northeast-2.compute.amazonaws.com" target="_blank">📷 Photolog 사이트 둘러보기</a>
+## <a href="https://www.youtube.com/watch?v=wbJW3wDgFrY&ab_channel=%EA%B9%80%EB%8F%99%ED%95%9C" target="_blank">📷 Photolog 사이트 둘러보기</a>
 
 <br>
 
